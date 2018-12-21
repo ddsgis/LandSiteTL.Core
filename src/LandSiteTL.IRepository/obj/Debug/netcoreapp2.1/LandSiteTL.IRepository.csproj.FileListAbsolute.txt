@@ -1,0 +1,9 @@
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\bin\Debug\netcoreapp2.1\LandSiteTL.IRepository.deps.json
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\bin\Debug\netcoreapp2.1\LandSiteTL.IRepository.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\bin\Debug\netcoreapp2.1\LandSiteTL.IRepository.pdb
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.csprojAssemblyReference.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.csproj.CoreCompileInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.AssemblyInfoInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.AssemblyInfo.cs
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.IRepository\obj\Debug\netcoreapp2.1\LandSiteTL.IRepository.pdb

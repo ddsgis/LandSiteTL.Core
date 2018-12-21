@@ -1,0 +1,14 @@
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\bin\Debug\netcoreapp2.1\LandSiteTL.WebApi.deps.json
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\bin\Debug\netcoreapp2.1\LandSiteTL.WebApi.runtimeconfig.json
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\bin\Debug\netcoreapp2.1\LandSiteTL.WebApi.runtimeconfig.dev.json
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\bin\Debug\netcoreapp2.1\LandSiteTL.WebApi.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\bin\Debug\netcoreapp2.1\LandSiteTL.WebApi.pdb
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.csprojAssemblyReference.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.csproj.CoreCompileInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.RazorAssemblyInfo.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.RazorAssemblyInfo.cs
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.AssemblyInfoInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.AssemblyInfo.cs
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.RazorTargetAssemblyInfo.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.WebApi\obj\Debug\netcoreapp2.1\LandSiteTL.WebApi.pdb

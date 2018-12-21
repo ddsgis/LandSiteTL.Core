@@ -1,0 +1,9 @@
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\bin\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.deps.json
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\bin\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\bin\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.pdb
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.csprojAssemblyReference.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.csproj.CoreCompileInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.AssemblyInfoInputs.cache
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.AssemblyInfo.cs
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.dll
+D:\02-AI\vue-element\LandSiteTL.WebApi\LandSiteTL.Repository.MySql\obj\Debug\netcoreapp2.1\LandSiteTL.Repository.MySQL.pdb
